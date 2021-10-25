@@ -2,7 +2,7 @@
 
 I'm a data scientist with experience working in R, Python, SQL, Ruby, and occasionally javascript.  Most of my work tied to my current and last few $JOB roles isn't public, but I developed some open source projects during my time in graduate school and have contributed to a few projects on the side since.
 
-My graduate school projects are the ones listed in the pinned repositories as part of the GreenleafLab organization. 
+My graduate school projects are the ones in the pinned repositories that are part of the GreenleafLab organization. 
 
 During that time I also developed as part of an internship with Genentech the [iheatmapr](https://github.com/ropensci/iheatmapr) package for interactive heatmaps in R.  
 
