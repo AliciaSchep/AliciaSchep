@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist working mostly in R, Python, and SQL, with an occasional smidgen of javascript.  Most of my work tied to my current and last few $JOB roles isn't public, but I developed some open source R and python packages during my time as a PhD student at Stanford in the Greenleaf Lab and have contributed to a few projects on the side since.
+Most of my work tied to my current and last few $JOB roles isn't public, but I developed some open source R and python packages during my time as a PhD student at Stanford in the Greenleaf Lab and have contributed to a few projects on the side since.
 
 My graduate school projects are the ones in the pinned repositories that are part of the GreenleafLab organization. During graduate school I also developed as part of an internship with Genentech the [iheatmapr](https://github.com/ropensci/iheatmapr) package for interactive heatmaps in R.  
 
